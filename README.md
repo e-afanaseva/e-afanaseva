@@ -6,4 +6,4 @@
 
 ### My Projects
 - [Credit Risk Model Stability (Research)](https://github.com/e-afanaseva/credit-risk-model-stability-research). Machine learning project based on the Kaggle competition predicting probability of client default.
-- [Credit Risk Prediction Service](https://github.com/e-afanaseva/credit-risk-model-stability-mlops). A containerized service that predicts the probability of loan default.
+- [Credit Risk Model Stability (MLPOps)](https://github.com/e-afanaseva/credit-risk-model-stability-mlops). A containerized service that predicts the probability of loan default.
